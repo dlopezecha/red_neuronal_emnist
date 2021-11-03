@@ -26,7 +26,7 @@ Estas son las tecnologías usadas para crear este proyecto funcional
 - [Jquery](https://jquery.com/)
   
 # DataSets
-El set de datos usados para realizar esta red neuronal fue la Extended Keras MNIST (EMNIST) que provee números, letras en mayusculas y letras en minusculas - [Ver Información completa](https://arxiv.org/abs/1702.05373) - [Explorar DataSet](https://knowyourdata-tfds.withgoogle.com/#dataset=emnist&tab=STATS&select=kyd%2Femnist%2Flabel)
+El set de datos usados para realizar esta red neuronal fue la Extended Keras MNIST (EMNIST) que provee números, letras en mayusculas y letras en minusculas - [Ver Información completa](https://arxiv.org/abs/1702.05373) - [Explorar DataSet](https://knowyourdata-tfds.withgoogle.com/#dataset=emnist&tab=STATS&select=kyd%2Femnist%2Flabel) - [Ver Variantes de la implementación](https://github.com/machinecurve/extra_keras_datasets)
 
 # Tabla de valores del DataSet
 
